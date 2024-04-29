@@ -1,0 +1,50 @@
+{
+
+    "product" :  [
+        {
+          "id": 1,
+          "image": "image 1.jpg",
+          "name": "T-shirt",
+          "price": 350
+        },
+        {
+          "id": 2,
+          "image": "image 2.jpg",
+          "name": "T-shirt",
+          "price": 400
+        },
+        {
+          "id": 3,
+          "image": "image 3.jpg",
+          "name": "T-shirt",
+          "price": 450
+        },
+      
+        {
+          "id": 4,
+          "image": "image 4.png",
+          "name": "Smart Watch",
+          "price": 400
+      
+        },
+        {
+          "id": 5,
+          "image": "image 5.png",
+          "name": "Smart Watch",
+          "price": 400
+        },
+      
+        {
+          "id": 6,
+          "image": "image 6.png",
+          "name": "Smart Watch",
+          "price": 400
+        },
+        {
+          "id": 7,
+          "image": "image 6.png",
+          "name": "Smart Watch",
+          "price": 400
+        }
+      ]
+}
